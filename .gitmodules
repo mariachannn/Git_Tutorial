@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/mariachannn/Git_Tutorial_sub_repo.git
